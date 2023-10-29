@@ -1,3 +1,5 @@
+<img src="https://www.linkedin.com/in/altu%C4%9F-aslan-softwaredeveloper/overlay/background-image/">
+
 <h1 align="center">Hi 👋, I'm Altug Aslan</h1>
 <h3 align="center">Full Stack Java Developer from Istanbul</h3>
 
