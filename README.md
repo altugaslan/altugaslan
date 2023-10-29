@@ -1,5 +1,3 @@
-<img src="https://www.canva.com/design/DAFyiUtb8yo/hSEm-uwFyTlwhHzDGNdgYw/edit">
-
 <h1 align="center">Hi 👋, I'm Altug Aslan</h1>
 <h3 align="center">Full Stack Java Developer from Istanbul</h3>
 
